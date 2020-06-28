@@ -1,1 +1,1 @@
-# Ejercicio_Escuelita_Somos_PNT
+# Ejercicio: Escuelita Somos PNT
